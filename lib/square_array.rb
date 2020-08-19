@@ -7,4 +7,5 @@ def square_array(array)
    square_array.push(index1.to_i**2)
    counter+= 1
   end
+  p square_array
 end
